@@ -1,0 +1,37 @@
+type_maison,description,surface,code_travaux,type_travaux,unité,prix_unitaire,quantite,duree_travaux
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,102,mur de soutainement et demi Cloture ht 1m,m3,190000,"18,4",90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,103,décapage des terrains meubles,m3,8500,781,90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,104,Dressage du plateforme,m2,150000,25,90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,105,Fouille d'ouvrage terrain ferme,m2,40000,5,90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,106,Remblai d'ouvrage,m2,78000,10,90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,107,Traveaux d'implantation,fft,19000,"20,2",90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,108,"Maçonnerie des moellons, ep=35cm",m3,95000,"7,48",90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,109,Béton armee dosee a 350kg/m3,m3,91100,8,90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,110,Remblai technique,m3,87500,11,90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,111,Hérissonage ep=10,ep,15800,75,90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,112,Béton ordinaire dosee a 300kg/m3,m3,90000,"1,2",90
+TOKYO,"2 chambres, 1 living, 1 salle de bain",128,113,chape de 2 cm,cm,15000,7,90
+RIO,"1 picsine, 3 chambres",150,102,mur de soutainement et demi Cloture ht 1m,m3,190000,"16,4",110
+RIO,"1 picsine, 3 chambres",150,103,décapage des terrains meubles,m3,8500,790,110
+RIO,"1 picsine, 3 chambres",150,104,Dressage du plateforme,m2,150000,22,110
+RIO,"1 picsine, 3 chambres",150,105,Fouille d'ouvrage terrain ferme,m2,40000,7,110
+RIO,"1 picsine, 3 chambres",150,106,Remblai d'ouvrage,m2,78000,7,110
+RIO,"1 picsine, 3 chambres",150,107,Traveaux d'implantation,fft,19000,"20,25",110
+RIO,"1 picsine, 3 chambres",150,108,"Maçonnerie des moellons, ep=35cm",m3,95000,"7,89",110
+RIO,"1 picsine, 3 chambres",150,109,Béton armee dosee a 350kg/m3,m3,91100,15,110
+RIO,"1 picsine, 3 chambres",150,110,Remblai technique,m3,87500,12,110
+RIO,"1 picsine, 3 chambres",150,111,Hérissonage ep=10,ep,15800,40,110
+RIO,"1 picsine, 3 chambres",150,112,Béton ordinaire dosee a 300kg/m3,m3,90000,"7,2",110
+RIO,"1 picsine, 3 chambres",150,113,chape de 2 cm,cm,15000,12,110
+BERLIN,"2 picsines, 3 chambres",170,102,mur de soutainement et demi Cloture ht 1m,m3,190000,"16,9",132
+BERLIN,"2 picsines, 3 chambres",170,103,décapage des terrains meubles,m3,8500,"800,12",132
+BERLIN,"2 picsines, 3 chambres",170,104,Dressage du plateforme,m2,150000,28.4,132
+BERLIN,"2 picsines, 3 chambres",170,105,Fouille d'ouvrage terrain ferme,m2,40000,"10,5",132
+BERLIN,"2 picsines, 3 chambres",170,106,Remblai d'ouvrage,m2,78000,"8,5",132
+BERLIN,"2 picsines, 3 chambres",170,107,Traveaux d'implantation,fft,19000,"30,8",132
+BERLIN,"2 picsines, 3 chambres",170,108,"Maçonnerie des moellons, ep=35cm",m3,95000,78,132
+BERLIN,"2 picsines, 3 chambres",170,109,Béton armee dosee a 350kg/m3,m3,91100,20,132
+BERLIN,"2 picsines, 3 chambres",170,110,Remblai technique,m3,87500,20,132
+BERLIN,"2 picsines, 3 chambres",170,111,Hérissonage ep=10,ep,15800,89,132
+BERLIN,"2 picsines, 3 chambres",170,112,Béton ordinaire dosee a 300kg/m3,m3,90000,"17,2",132
+BERLIN,"2 picsines, 3 chambres",170,113,chape de 2 cm,cm,15000,17,132
